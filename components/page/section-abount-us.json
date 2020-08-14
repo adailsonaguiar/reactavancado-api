@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_section_abountuses",
+  "info": {
+    "name": "sectionAbountUs",
+    "icon": "user-astronaut"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "autors": {
+      "collection": "autor"
+    }
+  }
+}

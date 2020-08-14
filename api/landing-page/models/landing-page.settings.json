@@ -53,6 +53,22 @@
       "type": "component",
       "repeatable": false,
       "component": "page.pricing-box"
+    },
+    "sectionAbountUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-abount-us"
+    },
+    "sectionReviws": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviws"
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-faq",
+      "required": false
     }
   }
 }
