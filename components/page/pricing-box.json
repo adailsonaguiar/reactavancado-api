@@ -11,11 +11,11 @@
       "required": true,
       "default": 415
     },
-    "numberInstalments": {
+    "numberInstallments": {
       "type": "integer",
       "required": true
     },
-    "priceInstalment": {
+    "priceInstallment": {
       "type": "integer",
       "required": true
     },

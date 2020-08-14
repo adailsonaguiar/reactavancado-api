@@ -2,7 +2,7 @@
   "kind": "singleType",
   "collectionName": "landing_pages",
   "info": {
-    "name": "landing-page"
+    "name": "landingPage"
   },
   "options": {
     "increments": true,
@@ -23,10 +23,10 @@
       "repeatable": false,
       "component": "page.header"
     },
-    "sectionAbountProject": {
+    "sectionAboutProject": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-abount-project"
+      "component": "page.section-about-project"
     },
     "sectionTech": {
       "type": "component",
@@ -54,21 +54,20 @@
       "repeatable": false,
       "component": "page.pricing-box"
     },
-    "sectionAbountUs": {
+    "sectionAboutUs": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-abount-us"
+      "component": "page.section-about-us"
     },
-    "sectionReviws": {
+    "sectionReviews": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-reviws"
+      "component": "page.section-reviews"
     },
     "sectionFaq": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-faq",
-      "required": false
+      "component": "page.section-faq"
     }
   }
 }

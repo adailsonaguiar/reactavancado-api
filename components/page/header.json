@@ -8,7 +8,6 @@
   "attributes": {
     "title": {
       "type": "string",
-      "default": "Título da Landing Page",
       "required": true
     },
     "description": {

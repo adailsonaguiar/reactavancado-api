@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_page_section_reviws",
+  "collectionName": "components_page_section_reviews",
   "info": {
-    "name": "sectionReviws",
+    "name": "sectionReviews",
     "icon": "star"
   },
   "options": {},
